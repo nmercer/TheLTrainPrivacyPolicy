@@ -125,7 +125,6 @@ a#forkme_banner {
   width: 138px;
   height: 138px;
   display: block;
-  background: transparent url(../images/fork-sprite.png) 0 0 no-repeat;
   text-indent: -9000px;
   z-index: 3;
 }
@@ -212,7 +211,6 @@ div#no-downloads span.inner {
   position: relative;
   height: 197px;
   width: 550px;
-  background: transparent url(../images/download-sprite.png) 0 0 no-repeat;
 }
 
 section#downloads a {
@@ -221,7 +219,6 @@ section#downloads a {
   height: 67px;
   width: 275px;
   padding-top: 130px;
-  background: transparent url(../images/download-sprite.png) 0 0 no-repeat;
   text-align: center;
   line-height: 1;
   color: #fff;
@@ -526,7 +523,7 @@ dd p:first-child {
 }
 
 .header-level-1 {
-  font-size: 1.85em;
+  font-size: 1.00em;
   border-bottom: .2em double #d3ccc1;
   color: #7c334f;
   text-align: center;
